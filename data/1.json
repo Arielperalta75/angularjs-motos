@@ -1,0 +1,46 @@
+{
+    "nombre": "HARLEY DAVIDSON",
+	  "fabricante": {
+		"nombre": "HARLEY DAVIDSON",
+		"modelo": "CVO Electra Glide Ultra Limited"
+	},
+      "motor":{
+           "Configuracion": "En V longitudinal a 45º",
+           "Ciclo": "4 T",
+           "Cilindros":2 ,
+           "Valvulas": "x cilindro 2",
+           "Distribucion": "Varillas",
+           "Cilindrada": "1.802cc",
+           "Diametro": "x carrera 101,6 x 111,1 mm",
+           "Refrigeracion": "Aire-líquido"
+  },      
+     "transmision":{
+           "Arranque": "Eléctrico",  
+           "Embrague": "Manual",
+           "Cambio": "Manual (6 marchas)"
+ },
+    "dimensionespesoycapacidades":{
+            "Distanciatotal": "2.600mm",
+            "Distanciaentreejes": "1.625mm",
+            "Alturaasiento": "740mm",
+            "Capacidaddeposito": "22,7 L",
+            "Pesoenordendemarcha":"433Kg",
+            "Pesoenseco": "416kg"
+ },
+    "parteciclo": { 
+          "Chasis": "Doble cuna de acero",
+          "Avance": "170mm",
+          "Suspensiondelantera": "Horquilla telescópica hidráulica",
+          "Suspensiontrasera": "Doble amortiguador",
+          "Frenodelantero": "Doble disco mm",
+          "Frenotrasero": "Disco mm",
+          "Neumaticodelantero": "130/80-17' ",
+          "Neumaticotrasero": "180/65-16' "
+  },
+    "images": [
+		"moto-harley1.jpg",
+		"moto-harley2.jpg",
+		"moto-harley3.jpg",
+		"moto-harley4.jpg"
+	]
+}

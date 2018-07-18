@@ -1,0 +1,45 @@
+{
+    "nombre": "DUCATI",
+	  "fabricante": {
+		"nombre": "DUCATI",
+		"modelo": "SuperSport"
+	},
+      "motor":{
+           "Configuracion": "En V longitudinal a 90º",
+           "Ciclo": "4 T",
+           "Cilindros":2 ,
+           "Valvulas": "x cilindro 4",
+           "Distribucion": "Desmodrómico",
+           "Cilindrada": "937cc",
+           "Diametro": "x carrera 94 x 67,5 mm",
+           "Refrigeracion": "Líquida"
+  },      
+     "transmision":{
+           "Arranque": "Eléctrico",  
+           "Embrague": "Manual",
+           "Cambio": "Manual (6 marchas)"
+ },
+    "dimensionespesoycapacidades":{
+            "Distanciatotal": "-",
+            "Distanciaentreejes": "1.478mm",
+            "Alturaasiento": "810mm",
+            "Capacidaddeposito": "16 L",
+            "Pesoenordendemarcha":"210Kg",
+            "Pesoenseco": "183kg"
+ },
+    "parteciclo": { 
+          "Chasis": "Multitubular en acero fijado a las culatas",
+          "Avance": "91mm",
+          "Suspensiondelantera": "Horquilla telescópica hidráulica invertida",
+          "Suspensiontrasera": "Monoamortiguador con bieletas",
+          "Frenodelantero": "Doble disco 320mm",
+          "Frenotrasero": "Disco 245mm",
+          "Neumaticodelantero": "120/70 ZR 17 ",
+          "Neumaticotrasero": "180/55 ZR 17 "
+  },
+    "images": [
+		"ducati1.jpg",
+		"ducati2.jpg"
+	]
+}
+

@@ -1,0 +1,47 @@
+{
+    "nombre": "HONDA",
+	  "fabricante": {
+		"nombre": "HONDA",
+		"modelo": "Forza 125"
+	},
+      "motor":{
+           "Configuracion": "En línea longitudinal",
+           "Ciclo": "4 T",
+           "Cilindros":1 ,
+           "Valvulas": "x cilindro 4",
+           "Distribucion": "SOHC",
+           "Cilindrada": "125cccc",
+           "Diametro": "x carrera 52,4 x 57,9 mm",
+           "Refrigeracion": "Líquida"
+  },      
+     "transmision":{
+           "Arranque": "Eléctrico",  
+           "Embrague": "Automático",
+           "Cambio": "Automático por variador"
+ },
+    "dimensionespesoycapacidades":{
+            "Distanciatotal": "2.134mm",
+            "Distanciaentreejes": "1.490mm",
+            "Alturaasiento": "780mm",
+            "Capacidaddeposito": "11,5 L",
+            "Pesoenordendemarcha":"161Kg",
+            "Pesoenseco": "149,5kg"
+ },
+    "parteciclo": { 
+          "Chasis": "Tubular en acero",
+          "Avance": "89mm",
+          "Suspensiondelantera": "Horquilla telescópica hidráulica",
+          "Suspensiontrasera": "Doble amortiguador",
+          "Frenodelantero": "Doble disco 256mm",
+          "Frenotrasero": "Disco 240mm",
+          "Neumaticodelantero": "120/70-15 ",
+          "Neumaticotrasero": "140/70-14 "
+  },
+    "images": [
+		"honda1.jpg",
+		"honda2.jpg",
+		"honda3.jpg"
+	]
+}
+
+

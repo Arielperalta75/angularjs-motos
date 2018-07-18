@@ -1,0 +1,46 @@
+{
+    "nombre": "KEEWAY",
+	  "fabricante": {
+		"nombre": "KEEWAY",
+		"modelo": "Superlight 125 LE"
+	},
+      "motor":{
+           "Configuracion": "-",
+           "Ciclo": "4 T",
+           "Cilindros":1 ,
+           "Valvulas": "-",
+           "Distribucion": "-",
+           "Cilindrada": "125cc",
+           "Diametro": "-",
+           "Refrigeracion": "Aire"
+  },      
+     "transmision":{
+           "Arranque": "-",  
+           "Embrague": "Manual",
+           "Cambio": "Manual (5 marchas)"
+ },
+    "dimensionespesoycapacidades":{
+            "Distanciatotal": "2.260mm",
+            "Distanciaentreejes": "1.440mm",
+            "Alturaasiento": "-",
+            "Capacidaddeposito": "15 L",
+            "Pesoenordendemarcha":"149Kg",
+            "Pesoenseco": "134kg"
+ },
+    "parteciclo": { 
+          "Chasis": "Doble cuna de acero",
+          "Avance": "-",
+          "Suspensiondelantera": "Horquilla telescópica hidráulica",
+          "Suspensiontrasera": "Doble amortiguador",
+          "Frenodelantero": "Disco mm",
+          "Frenotrasero": "Tambor mm",
+          "Neumaticodelantero": "110/90-16 ",
+          "Neumaticotrasero": "130/90-15 "
+  },
+    "images": [
+		"keeway1.jpg",
+		"keeway2.jpg"
+	]
+}
+
+

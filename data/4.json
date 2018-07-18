@@ -1,0 +1,49 @@
+{
+    "nombre": "TRIUMPH",
+	  "fabricante": {
+		"nombre": "TRIUMPH",
+		"modelo": "SPRINT GT"
+	},
+      "motor":{
+           "Configuracion": "En V longitudinal a 45º",
+           "Ciclo": "4 T",
+           "Cilindros":2 ,
+           "Valvulas": "x cilindro 2",
+           "Distribucion": "Varillas",
+           "Cilindrada": "1.050cc",
+           "Diametro": "x carrera 101,6 x 111,1 mm",
+           "Refrigeracion": "Aire-líquido"
+  },      
+     "transmision":{
+           "Arranque": "Eléctrico",  
+           "Embrague": "Manual",
+           "Cambio": "Manual (6 marchas)"
+ },
+    "dimensionespesoycapacidades":{
+            "Distanciatotal": "-",
+            "Distanciaentreejes": "1.537mm",
+            "Alturaasiento": "815mm",
+            "Capacidaddeposito": "20 L",
+            "Pesoenordendemarcha":"-",
+            "Pesoenseco": "268kg"
+ },
+    "parteciclo": { 
+          "Chasis": "-",
+          "Avance": "-",
+          "Suspensiondelantera": "-",
+          "Suspensiontrasera": "-",
+          "Frenodelantero": "Doble disco ABSmm",
+          "Frenotrasero": "Disco 255 Nissin ABSmm",
+          "Neumaticodelantero": "120/70 ZR 17",
+          "Neumaticotrasero": "180/55 ZR 17 "
+  },
+    "images": [
+		"triumph1.jpg",
+		"triumph2.jpg",
+		"triumph3.jpg",
+		"triumph4.jpg"
+	]
+}
+
+
+

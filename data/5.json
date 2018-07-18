@@ -1,0 +1,45 @@
+{
+    "nombre": "SUZUKI",
+	  "fabricante": {
+		"nombre": "SUZUKI",
+		"modelo": "GSX-R125 ABS"
+	},
+      "motor":{
+           "Configuracion": "En V longitudinal a 45º",
+           "Ciclo": "4 T",
+           "Cilindros":1 ,
+           "Valvulas": "x cilindro 4",
+           "Distribucion": "DOHC",
+           "Cilindrada": "125cc",
+           "Diametro": "x carrera 62 x 41,2 mm",
+           "Refrigeracion": "Líquida"
+  },      
+     "transmision":{
+           "Arranque": "Eléctrico",  
+           "Embrague": "Manual",
+           "Cambio": "Manual (6 marchas)"
+ },
+    "dimensionespesoycapacidades":{
+            "Distanciatotal": "1975mm",
+            "Distanciaentreejes": "1.300mm",
+            "Alturaasiento": "785mm",
+            "Capacidaddeposito": "11 L",
+            "Pesoenordendemarcha":"-",
+            "Pesoenseco": "-"
+ },
+    "parteciclo": { 
+          "Chasis": "-",
+          "Avance": "170mm",
+          "Suspensiondelantera": "Horquilla telescópica hidráulica",
+          "Suspensiontrasera": "Doble amortiguador",
+          "Frenodelantero": "Disco mm",
+          "Frenotrasero": "Disco mm",
+          "Neumaticodelantero": "90/80/17 ",
+          "Neumaticotrasero": "130/70/17"
+  },
+    "images": [
+		"suzuki1.jpg",
+		"suzuki2.jpg",
+		"suzuki3.jpg"
+	]
+}

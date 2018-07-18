@@ -1,0 +1,46 @@
+{
+    "nombre": "YAMAHA",
+	  "fabricante": {
+		"nombre": "YAMAHA",
+		"modelo": "YZF R6"
+	},
+      "motor":{
+           "Configuracion": "En línea transversalº",
+           "Ciclo": "4 T",
+           "Cilindros":2 ,
+           "Valvulas": "x cilindro 4",
+           "Distribucion": "DOHC",
+           "Cilindrada": "599cc",
+           "Diametro": "x carrera 67 x 42,5 mm",
+           "Refrigeracion": "Líquida"
+  },      
+     "transmision":{
+           "Arranque": "Eléctrico",  
+           "Embrague": "Manual",
+           "Cambio": "Manual (6 marchas)"
+ },
+    "dimensionespesoycapacidades":{
+            "Distanciatotal": "2.040mm",
+            "Distanciaentreejes": "1.375mm",
+            "Alturaasiento": "850mm",
+            "Capacidaddeposito": "17 L",
+            "Pesoenordendemarcha":"190Kg",
+            "Pesoenseco": "169,6kg"
+ },
+    "parteciclo": { 
+          "Chasis": "Doble cuna de aluminio",
+          "Avance": "97mm",
+          "Suspensiondelantera": "Horquilla telescópica hidráulica invertida",
+          "Suspensiontrasera": "Monoamortiguador",
+          "Frenodelantero": "Doble disco 320mm",
+          "Frenotrasero": "Disco 220mm",
+          "Neumaticodelantero": "120/70-17 ",
+          "Neumaticotrasero": "180/55-17 "
+  },
+    "images": [
+		"yamaha1.jpg",
+		"yamaha2.jpg",
+		"yamaha3.jpg",
+		"yamaha4.jpg"
+	]
+}

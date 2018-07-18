@@ -1,0 +1,47 @@
+{
+    "nombre": "KAWASAKI",
+	  "fabricante": {
+		"nombre": "KAWASAKI",
+		"modelo": "Ninja H2"
+	},
+      "motor":{
+           "Configuracion": "En V longitudinal",
+           "Ciclo": "4 T",
+           "Cilindros":4 ,
+           "Valvulas": "x cilindro 4",
+           "Distribucion": "DOHC",
+           "Cilindrada": "998cc",
+           "Diametro": "x carrera 76 x 55 mm",
+           "Refrigeracion": "Líquida"
+  },      
+     "transmision":{
+           "Arranque": "Eléctrico",  
+           "Embrague": "Manual",
+           "Cambio": "Manual (6 marchas)"
+ },
+    "dimensionespesoycapacidades":{
+            "Distanciatotal": "2.085mm",
+            "Distanciaentreejes": "1.455mm",
+            "Alturaasiento": "825mm",
+            "Capacidaddeposito": "17 L",
+            "Pesoenordendemarcha":"238Kg",
+            "Pesoenseco": "221kg"
+ },
+    "parteciclo": { 
+          "Chasis": "Tubular en acero",
+          "Avance": "130mm",
+          "Suspensiondelantera": "Horquilla telescópica hidráulica invertida",
+          "Suspensiontrasera": "Monoamortiguador con bieletas",
+          "Frenodelantero": "Doble disco 330mm",
+          "Frenotrasero": "Disco 250mm",
+          "Neumaticodelantero": "120/70 17" ",
+          "Neumaticotrasero": "200/55 ZR17 "
+  },
+    "images": [
+		"kawasaki1.jpg",
+		"kawasaki2.jpg",
+		"kawasaki3.jpg",
+		"kawasaki4.jpg"
+	]
+}
+

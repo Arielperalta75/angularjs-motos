@@ -1,0 +1,47 @@
+{
+    "nombre": "BENELLI",
+	  "fabricante": {
+		"nombre": "BENELLI",
+		"modelo": "TRK 502"
+	},
+      "motor":{
+           "Configuracion": "En V longitudinal a 45º",
+           "Ciclo": "4 T",
+           "Cilindros":4 ,
+           "Valvulas": "x cilindro 2",
+           "Distribucion": "DOHC",
+           "Cilindrada": "502cc",
+           "Diametro": "x carrera 69 x 66,8 mm",
+           "Refrigeracion": "Líquida"
+  },      
+     "transmision":{
+           "Arranque": "Eléctrico",  
+           "Embrague": "Manual",
+           "Cambio": "Manual (6 marchas)"
+ },
+    "dimensionespesoycapacidades":{
+            "Distanciatotal": "2.200mm",
+            "Distanciaentreejes": "1.525mm",
+            "Alturaasiento": "840mm",
+            "Capacidaddeposito": "20 L",
+            "Pesoenordendemarcha":"250Kg",
+            "Pesoenseco": "230kg"
+ },
+    "parteciclo": { 
+          "Chasis": "Multitubular en acero",
+          "Avance": "-",
+          "Suspensiondelantera": "Horquilla telescópica hidráulica invertida",
+          "Suspensiontrasera": "Monoamortiguador con bieletas",
+          "Frenodelantero": "Doble disco 320mm",
+          "Frenotrasero": "Disco 260mm",
+          "Neumaticodelantero": "110/80 x 19' ",
+          "Neumaticotrasero": "150/70 X 17' "
+  },
+    "images": [
+		"benelli1.jpg",
+		"benelli2.jpg",
+		"benelli3.jpg",
+		"benelli4.jpg"
+	]
+}
+
