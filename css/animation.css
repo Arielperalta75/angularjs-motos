@@ -1,25 +1,3 @@
-.moto-thumbs li img {
-	width: 5rem;
-	border-radius: 6px;
-	border: solid 1px;
-}
-
-.img_lista {
-    height: 20rem;
-}
-
-.img_detalle {
-    height: 25rem;
-}
-
-.moto_detalle{
-	height: 6rem;
-}
-
-.card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
-    text-transform: none;
-}
-
 .moto-listing.ng-enter,
 .moto-listing.ng-leave,
 .moto-listing.ng-move {

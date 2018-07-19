@@ -2,7 +2,8 @@
     "nombre": "KAWASAKI",
 	  "fabricante": {
 		"nombre": "KAWASAKI",
-		"modelo": "Ninja H2"
+		"modelo": "Ninja H2",
+        "pais":"JAPON"
 	},
       "motor":{
            "Configuracion": "En V longitudinal",
@@ -38,10 +39,10 @@
           "Neumaticotrasero": "200/55 ZR17 "
   },
     "images": [
-		"kawasaki1.jpg",
-		"kawasaki2.jpg",
-		"kawasaki3.jpg",
-		"kawasaki4.jpg"
+		"img/motos/kawasaki1.jpg",
+		"img/motoskawasaki2.jpg",
+		"img/motos/kawasaki3.jpg",
+		"img/motos/kawasaki4.jpg"
 	]
 }
 

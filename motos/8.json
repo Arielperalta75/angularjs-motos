@@ -2,7 +2,8 @@
     "nombre": "HONDA",
 	  "fabricante": {
 		"nombre": "HONDA",
-		"modelo": "Forza 125"
+		"modelo": "Forza 125",
+        "pais":"JAPON"
 	},
       "motor":{
            "Configuracion": "En línea longitudinal",
@@ -38,9 +39,9 @@
           "Neumaticotrasero": "140/70-14 "
   },
     "images": [
-		"honda1.jpg",
-		"honda2.jpg",
-		"honda3.jpg"
+		"img/motos/honda1.jpg",
+		"img/motos/honda2.jpg",
+		"img/motos/honda3.jpg"
 	]
 }
 

@@ -2,7 +2,8 @@
     "nombre": "DUCATI",
 	  "fabricante": {
 		"nombre": "DUCATI",
-		"modelo": "SuperSport"
+		"modelo": "SuperSport",
+        "pais":"ITALIA"
 	},
       "motor":{
            "Configuracion": "En V longitudinal a 90º",
@@ -38,8 +39,8 @@
           "Neumaticotrasero": "180/55 ZR 17 "
   },
     "images": [
-		"ducati1.jpg",
-		"ducati2.jpg"
+		"img/motos/ducati1.jpg",
+		"img/motos/ducati2.jpg"
 	]
 }
 

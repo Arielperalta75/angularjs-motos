@@ -1,0 +1,109 @@
+<div class="blog-header">
+  <h1 class="blog-title">{{moto.nombre}}</h1>
+  <p class="lead blog-description">{{moto.detalle}}</p>
+</div>
+<div class="row">
+  <div class="col-sm-7 blog-main">
+    <div class="moto-images">
+      <img ng-src="{{img}}" class="moto" ng-repeat="img in moto.images" ng-class="{active: mainImageUrl==img}">
+    </div>
+  </div>
+  <div class="col-sm-5 blog-sidebar">
+    <ul class="moto-thumbs">
+      <li ng-repeat="img in moto.images">
+        <img ng-src="{{img}}" ng-click="setImage(img)">
+      </li>
+    </ul>
+  </div>
+</div>
+<ul class="specs">
+    <li>
+    <span>Fabricante</span>
+    <dl>
+      <dt>Nombre</dt>
+      <dd>{{moto.fabricante.nombre}}</dd>
+       <dt>Modelo</dt>
+      <dd>{{moto.fabricante.modelo}}</dd> 
+      <dt>País</dt>
+      <dd>{{moto.fabricante.pais}}</dd>
+    </dl>
+  </li>
+  <li>
+    <span>Motor</span>
+    <dl>
+       <dt>Configuracion: </dt>
+       <dd>{{ moto.motor.Configuracion }}</dd>
+       <dt>Ciclos:</dt> 
+       <dd>{{moto.motor.Ciclo }} </dd>
+       <dt> Cindros:</dt> 
+       <dd>{{ moto.motor.Cindros }} </dd>
+       <dt>Valvulas: </dt>
+      <dd>{{ moto.motor.Valvulas }} </dd>
+      <dt> Distribucion: </dt>
+      <dd>{{ moto.motor.Distribucion }} </dd>
+      <dt>Cindrada:</dt> 
+      <dd>{{ moto.motor.Cindrada}} </dd>
+      <dt>Diametro: </dt>
+      <dd>{{ moto.motor.Diametro}} </dd>
+      <dt>Refrigeracion:</dt> 
+      <dd>{{ moto.motor.Refrigeracion }}</dd>  
+    </dl>
+  </li>
+  <li>
+    <span>Transmision</span>
+    <dl>
+      <dt> Arranque: </dt>
+<dd>{{ moto.transmision.Arranque }}</dd> 
+			        <dt>Enbrague: </dt>
+                       <dd>{{ moto.transmision.Embrague }} </dd>
+                   <dt>Cambios:</dt> 
+                    <dd>{{ moto.transmision.Cambio }}</dd> 
+    </dl>
+  </li>
+    <li>
+        <span> Dimensiones, Peso y Capacidades </span>
+         <dt> Distancia Total:</dt> 
+<dd>{{ moto.dimensionespesoycapacidades.Distanciatotal }}</dd> 
+ <dt>Distancia entre ejes:</dt> 
+<dd>{{ moto.dimensionespesoycapacidades.Distanciaentreejes }}</dd> 
+<dt>Altura de Asiento: </dt>
+<dd>{{ moto.dimensionespesoycapacidades.Alturaasiento }} </dd> 
+    <dt> Capacidad de Deposito:</dt> 
+     <dd>{{ moto.dimensionespesoycapacidades.Capacidaeposito }</dd>} 
+     <dt>Peso en orden de Marcha:</dt> 
+<dd>{{ moto.dimensionespesoycapacidades.Pesoenordendemarcha }}</dd> 
+        <dt>Peso en Seco: </dt>
+<dd>{{ moto.dimensionespesoycapacidades.Pesoenseco }}</dd>
+    </li>
+    <li>
+        <span> Parte Ciclo </span>
+			        <dt>Chasis:</dt>  
+                <dd>{{ moto.parteciclo.Chasis }}</dd> 
+			        <dt>Avance: </dt>
+                <dd> {{ moto.parteciclo.Avance }}</dd> 
+                   <dt>Suspension Delantera:</dt>  
+        <dd>{{ moto.parteciclo.Suspensiondelantera}}</dd> 
+                 <dt>Suspension Trasera:</dt> 
+                    <dd> {{ moto.parteciclo.Suspensiontrasera }}</dd> 
+                  <dt>Freno Delantero: </dt>
+                    <dd> {{ moto.parteciclo.Frenodelantero }}</dd> 
+                <dt>Freno Trasero: </dt> 
+                    <dd>  {{ moto.parteciclo.Frenotrasero}}</dd> 
+                <dt>Neumatico Delantero:</dt>  
+                   <dd> {{ moto.parteciclo.Neumaticodelantero }}</dd> 
+                 <dt>Neumatico Trasero:</dt> 
+                    <dd>{{ moto.parteciclo.Neumaticotrasero}}</dd> 
+    </li>
+  <li>
+    <span>Tamaño y Peso</span>
+    <dl>
+      <dt>Dimensiones</dt>
+      <dd ng-repeat="dim in moto.tamanoypeso.dimensions">{{dim}}</dd>
+      <dt>Weight</dt>
+      <dd>{{moto.tamanoypeso.peso}}</dd>
+    </dl>
+  </li>
+</ul>
+                  
+           
+             

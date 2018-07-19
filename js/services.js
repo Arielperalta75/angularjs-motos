@@ -1,10 +1,11 @@
 'use strict';
 
-var AppMotoServices = angular.module('AppMotoServices', ['ngResource']);
+var motoAppServices = angular.module('motoAppServices', ['ngResource']);
 
-AppMotoServices.factory('Moto', ['$resource',
-	function($resource) {
-		return $resource('data/:motoId.json', {}, {
-			query: {method: 'GET', params: {motoId: 'listamotos'}, isArray: true}
-		});
-	}]);
+motoAppServices.factory('Moto', ['$resource',
+  function($resource) {
+    return $resource('motos/:motoId.json', {}, {
+      query: {method:'GET', params:{motoId:'motos'}, isArray:true}
+    });
+   }
+]);

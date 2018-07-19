@@ -2,7 +2,8 @@
     "nombre": "SUZUKI",
 	  "fabricante": {
 		"nombre": "SUZUKI",
-		"modelo": "GSX-R125 ABS"
+		"modelo": "GSX-R125 ABS",
+        "pais":"JAPON"
 	},
       "motor":{
            "Configuracion": "En V longitudinal a 45º",
@@ -38,8 +39,8 @@
           "Neumaticotrasero": "130/70/17"
   },
     "images": [
-		"suzuki1.jpg",
-		"suzuki2.jpg",
-		"suzuki3.jpg"
+		"img/motos/suzuki1.jpg",
+		"img/motos/suzuki2.jpg",
+		"img/motos/suzuki3.jpg"
 	]
 }

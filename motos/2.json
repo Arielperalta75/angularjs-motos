@@ -2,7 +2,8 @@
     "nombre": "KEEWAY",
 	  "fabricante": {
 		"nombre": "KEEWAY",
-		"modelo": "Superlight 125 LE"
+		"modelo": "Superlight 125 LE",
+        "pais":"CHINA"
 	},
       "motor":{
            "Configuracion": "-",
@@ -38,8 +39,8 @@
           "Neumaticotrasero": "130/90-15 "
   },
     "images": [
-		"keeway1.jpg",
-		"keeway2.jpg"
+		"img/motos/keeway1.jpg",
+		"img/motos/keeway2.jpg"
 	]
 }
 

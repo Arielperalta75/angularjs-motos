@@ -2,7 +2,8 @@
     "nombre": "YAMAHA",
 	  "fabricante": {
 		"nombre": "YAMAHA",
-		"modelo": "YZF R6"
+		"modelo": "YZF R6",
+        "pais":"JAPON"
 	},
       "motor":{
            "Configuracion": "En línea transversalº",
@@ -38,9 +39,9 @@
           "Neumaticotrasero": "180/55-17 "
   },
     "images": [
-		"yamaha1.jpg",
-		"yamaha2.jpg",
-		"yamaha3.jpg",
-		"yamaha4.jpg"
+		"img/motos/yamaha1.jpg",
+		"img/motos/yamaha2.jpg",
+		"img/motos/yamaha3.jpg",
+		"img/motos/yamaha4.jpg"
 	]
 }

@@ -2,7 +2,8 @@
     "nombre": "HARLEY DAVIDSON",
 	  "fabricante": {
 		"nombre": "HARLEY DAVIDSON",
-		"modelo": "CVO Electra Glide Ultra Limited"
+		"modelo": "CVO Electra Glide Ultra Limited",
+        "pais": "EE.UU"
 	},
       "motor":{
            "Configuracion": "En V longitudinal a 45º",
@@ -38,9 +39,9 @@
           "Neumaticotrasero": "180/65-16' "
   },
     "images": [
-		"moto-harley1.jpg",
-		"moto-harley2.jpg",
-		"moto-harley3.jpg",
-		"moto-harley4.jpg"
+		"img/motos/harley1.jpg",
+		"img/motos/harley2.jpg",
+		"img/motos/harley3.jpg",
+		"img/motos/harley4.jpg"
 	]
 }

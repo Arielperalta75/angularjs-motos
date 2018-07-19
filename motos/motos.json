@@ -3,15 +3,15 @@
 	"id": "1",
 	"nombre": "HARLEY DAVIDSON",
 	"modelo": "CVO Electra Glide Ultra Limited",
-	"imagen": "harley1.jpg",
+	"imageUrl": "img/motos/harley1.jpg",
 	"detalle": "La Honda CB125R es una escuela perfecta para los que con su carnet B de coche desean una moto de fácil conducción y marcado carácter deportivo.",
-	"year": 2018
+	"year": 2012
 },
 {
 	"id": "2",
 	"nombre": "KEEWAY",
 	"modelo": "Superlight 125 LE",
-	"imagen": "keeway1.jpg",
+	"imageUrl": "img/motos/keeway1.jpg",
 	"detalle": "La Yamaha MT-03 cuenta con un motor bicilíndrico que entrega 42 caballos de potencia, características mecánicas sofisticadas, como inyección electrónica, cuatro válvulas por cilindro o refrigeración líquida.",
 	"year": 2018
 },
@@ -19,39 +19,39 @@
 	"id": "3",
 	"nombre": "DUCATI",
 	"modelo": "SuperSport",
-	"imagen": "ducati1.jpg",
+	"imageUrl": "img/motos/ducati1.jpg",
 	"detalle": "La Panigale V4 S es sólo 5,5 kg más pesada que la 1299 Panigale S, una cifra que habla por sí sola del gran trabajo de los italianos con la Desmosedici Stradale.",
-	"year": 2018
+	"year": 2015
 },
 {
 	"id": "4",
 	"nombre": "TRIUMPH",
 	"modelo": "SPRINT GT",
-	"imagen": "triumph1.jpg",
+	"imageUrl": "img/motos/triumph1.jpg",
 	"detalle": "El BMW C 650 Sport es el más deportivo de los scooter de la marca alemana, el cual cambió de denominación en 2016 (antes se llamaba 600 Sport).",
-	"year": 2018
+	"year": 2010
 },
 {
 	"id": "5",
 	"nombre": "SUZUKI",
 	"modelo": "GSX-R125 ABS",
-	"imagen": "suzuki1.jpg",
+	"imageUrl": "img/motos/suzuki1.jpg",
 	"detalle": "Sucede a la Ninja 300 ofreciendo un motor con más cubicaje y potencia: 399 cc y 45 CV.",
-	"year": 2018
+	"year": 2009
 },
 {
 	"id": "6",
 	"nombre": "KAWASAKI",
 	"modelo": "Ninja H2",
-	"imagen": "kawasaki1.jpg",
+	"imageUrl": "img/motos/kawasaki1.jpg",
 	"detalle": "La marca japonesa se apunta al pujante carro de las tendencias retro que en su vertiente cafe racer cada vez tiene más adeptos.",
-	"year": 2018
+	"year": 2017
 },
 {
 	"id": "7",
 	"nombre": "YAMAHA",
 	"modelo": "YZF R6",
-	"imagen": "yamaha1.jpg",
+	"imageUrl": "img/motos/yamaha1.jpg",
 	"detalle": "Tomando como base la Vegas nace la versión 8-Ball, una custom menos turística en la que se elimina la posibilidad de llevar a un pasajero gracias a un asiento monoplaza anatómico.",
 	"year": 2010
 },
@@ -59,7 +59,7 @@
 	"id": "8",
 	"nombre": "HONDA",
 	"modelo": "Forza 125",
-	"imagen": "honda1.jpg",
+	"imageUrl": "img/motos/honda1.jpg",
 	"detalle": "Las Vespa GTS 125 Super y Super Sport son las variantes más deportivas y están repletas de detalles que realzan esa imagen.",
 	"year": 2018
 },
@@ -67,7 +67,7 @@
 	"id": "9",
 	"nombre": "BENELLI",
 	"modelo": "TRK 502",
-	"imagen": "benelli1.jpg",
+	"imageUrl": "img/motos/benelli1.jpg",
 	"detalle": "La Norton V4 SS/RR demuestra la gran ambición de la marca inglesa por recuperar su glorioso pasado creando una espectacular y exquisita superbike con 200 CV.",
 	"year": 2018
 }

@@ -2,7 +2,8 @@
     "nombre": "TRIUMPH",
 	  "fabricante": {
 		"nombre": "TRIUMPH",
-		"modelo": "SPRINT GT"
+		"modelo": "SPRINT GT",
+        "pais":"INGLATERRA"
 	},
       "motor":{
            "Configuracion": "En V longitudinal a 45º",
@@ -38,10 +39,10 @@
           "Neumaticotrasero": "180/55 ZR 17 "
   },
     "images": [
-		"triumph1.jpg",
-		"triumph2.jpg",
-		"triumph3.jpg",
-		"triumph4.jpg"
+		"img/motos/triumph1.jpg",
+		"img/motos/triumph2.jpg",
+		"img/motos/triumph3.jpg",
+		"img/motos/triumph4.jpg"
 	]
 }
 

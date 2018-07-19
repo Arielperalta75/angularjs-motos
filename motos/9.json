@@ -2,7 +2,8 @@
     "nombre": "BENELLI",
 	  "fabricante": {
 		"nombre": "BENELLI",
-		"modelo": "TRK 502"
+		"modelo": "TRK 502",
+        "pais":"ITALIA"
 	},
       "motor":{
            "Configuracion": "En V longitudinal a 45º",
@@ -38,10 +39,10 @@
           "Neumaticotrasero": "150/70 X 17' "
   },
     "images": [
-		"benelli1.jpg",
-		"benelli2.jpg",
-		"benelli3.jpg",
-		"benelli4.jpg"
+		"img/motos/benelli1.jpg",
+		"img/motos/benelli2.jpg",
+		"img/motos/benelli3.jpg",
+		"img/motos/benelli4.jpg"
 	]
 }
 
