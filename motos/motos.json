@@ -4,15 +4,15 @@
 	"nombre": "HARLEY DAVIDSON",
 	"modelo": "CVO Electra Glide Ultra Limited",
 	"imageUrl": "img/motos/harley1.jpg",
-	"detalle": "La Honda CB125R es una escuela perfecta para los que con su carnet B de coche desean una moto de fácil conducción y marcado carácter deportivo.",
-	"year": 2012
+	"detalle": "2018 CVO™ LIMITED.Esto es lo que pasa cuando Grand American Touring llega a la cima de la montaña de confort y estilo. Poder, características personalizadas y audio de primera calidad para el conductor que lo desea todo.",
+	"year": 2018
 },
 {
 	"id": "2",
 	"nombre": "KEEWAY",
 	"modelo": "Superlight 125 LE",
 	"imageUrl": "img/motos/keeway1.jpg",
-	"detalle": "La Yamaha MT-03 cuenta con un motor bicilíndrico que entrega 42 caballos de potencia, características mecánicas sofisticadas, como inyección electrónica, cuatro válvulas por cilindro o refrigeración líquida.",
+	"detalle": "La Keeway Superlight 125 monta el conocido motor monocilindrico de 4 tiempos refrigerado por aire de la marca que dispone de una cilindrada de 124,6 centímetros cúbicos y que ofrece una potencia máxima de 10,6 CV a 9.000 rpm con un par motor máximo de 8,9 Nm a 7.500 rpm.",
 	"year": 2018
 },
 {
@@ -20,15 +20,15 @@
 	"nombre": "DUCATI",
 	"modelo": "SuperSport",
 	"imageUrl": "img/motos/ducati1.jpg",
-	"detalle": "La Panigale V4 S es sólo 5,5 kg más pesada que la 1299 Panigale S, una cifra que habla por sí sola del gran trabajo de los italianos con la Desmosedici Stradale.",
-	"year": 2015
+	"detalle": "El lado versátil del deporte: sin renunciar nunca a su índole deportiva, SuperSport combina confort y versatilidad gracias a soluciones que hacen de este accesorio un componente perfecto para el uso en las carreteras de todos los días.",
+	"year": 2016
 },
 {
 	"id": "4",
 	"nombre": "TRIUMPH",
 	"modelo": "SPRINT GT",
 	"imageUrl": "img/motos/triumph1.jpg",
-	"detalle": "El BMW C 650 Sport es el más deportivo de los scooter de la marca alemana, el cual cambió de denominación en 2016 (antes se llamaba 600 Sport).",
+	"detalle": "Pimeros detalles de la tourer Triumph Sprint GT 1050. El modelo al que la nueva Triumph sustituye en casi todos los mercados, la Sprint GT, tenía una S grande y una T más pequeña: era más Sport que Tourer. La Sprint GT que aquí te presentamos quiere ser más GT que ST, más Grand Tourer que Sport Tourer, y lo hace B.G.T. al modo British de entender una GT.",
 	"year": 2010
 },
 {
@@ -36,15 +36,15 @@
 	"nombre": "SUZUKI",
 	"modelo": "GSX-R125 ABS",
 	"imageUrl": "img/motos/suzuki1.jpg",
-	"detalle": "Sucede a la Ninja 300 ofreciendo un motor con más cubicaje y potencia: 399 cc y 45 CV.",
-	"year": 2009
+	"detalle": "A pesar de ser tan solo una 125 cc, la GSX-R 125 ha sido diseñada para ser una verdadera deportiva, una motocicleta que hará las delicias de nuestros jóvenes, con la que aprenderán a trazar curvas y a disfrutar de una moto por la carretera.",
+	"year": 2017
 },
 {
 	"id": "6",
 	"nombre": "KAWASAKI",
 	"modelo": "Ninja H2",
 	"imageUrl": "img/motos/kawasaki1.jpg",
-	"detalle": "La marca japonesa se apunta al pujante carro de las tendencias retro que en su vertiente cafe racer cada vez tiene más adeptos.",
+	"detalle": "gracias al sistema de engranajes planetarios conectados al cigüeñal se consigue una velocidad 9,2 veces mayor que la del propio cigüeñal alcanzando casi las 130.000 rpm. La turbina está compuesta por un bloque de aluminio forjado con un centro mecanizado CNC de cinco ejes, que garantiza una alta precisión y durabilidad. La turbina es de 69 mm de diámetro e incorpora seis paletas en el extremo y 12 paletas en la base.",
 	"year": 2017
 },
 {
@@ -52,15 +52,15 @@
 	"nombre": "YAMAHA",
 	"modelo": "YZF R6",
 	"imageUrl": "img/motos/yamaha1.jpg",
-	"detalle": "Tomando como base la Vegas nace la versión 8-Ball, una custom menos turística en la que se elimina la posibilidad de llevar a un pasajero gracias a un asiento monoplaza anatómico.",
-	"year": 2010
+	"detalle": "Con un éxito absoluto tanto en ventas como en competencias de todo el mundo, la YZF-R6 es una de las Supersport más populares que Yamaha ha fabricado en la historia. La renovación de este modelo brinda cambios profundos en cuanto a diseño, aerodinámica y equipamiento, incluyendo sistemas de control de tracción (TCS) y potencia (D-Mode), además de ABS de serie. Ligero, ágil y rápido, este modelo icónico es la opción número uno de los amantes de las emociones fuertes ya sea en su día a día o en una práctica dentro del circuito.",
+	"year": 2018
 },
 {
 	"id": "8",
 	"nombre": "HONDA",
 	"modelo": "Forza 125",
 	"imageUrl": "img/motos/honda1.jpg",
-	"detalle": "Las Vespa GTS 125 Super y Super Sport son las variantes más deportivas y están repletas de detalles que realzan esa imagen.",
+	"detalle": "Su motor de 4 válvulas refrigerado por líquido proporciona una aceleración sin parangón en su segmento. Además ofrece 480 km de autonomía con un bajo consumo y una gran capacidad de aceleración, complementada por un rendimiento suave y una excelente capacidad de respuesta en trayectos urbanos y de mayor recorrido.",
 	"year": 2018
 },
 {
@@ -68,7 +68,7 @@
 	"nombre": "BENELLI",
 	"modelo": "TRK 502",
 	"imageUrl": "img/motos/benelli1.jpg",
-	"detalle": "La Norton V4 SS/RR demuestra la gran ambición de la marca inglesa por recuperar su glorioso pasado creando una espectacular y exquisita superbike con 200 CV.",
-	"year": 2018
+	"detalle": "Fabricada en China, pero supervisada por el equipo humano de la marca con sede en Italia, la nueva Benelli TRK 502 ya está lista para desembarcar en las tiendas. Se trata de una trail muy aparente y bien equipada, con un precio muy competitivo y una potencia máxima de 48 CV, perfecta para ser conducida con el permiso A2.",
+	"year": 2017
 }
 ]
